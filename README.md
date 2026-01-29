@@ -24,6 +24,9 @@ Finished learning DevOps basics — now practicing and building projects
 ---
 [![](https://visitcount.itsvg.in/api?id=umarfazil01&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="devops.gif" width="300" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
